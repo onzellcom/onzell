@@ -40,7 +40,7 @@ for page in pages:
         if not dest.is_file():
             errors.append(f"{page}: missing local link {path}")
     if page.name == "index.html":
-        scripts = re.findall(r"<script(?:\\s[^>]*)?>([\\s\\S]*?)</script>", source)
+        scripts = re.findall(r"<script[^>]*>(.*?)</script>", source, flags=re.S)
         if not scripts:
             errors.append("Homepage has no script")
         else:
