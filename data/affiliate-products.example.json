@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "description": "Documentation-only example; no live merchants or product offers",
+  "products": [],
+  "requiredFields": [
+    "id",
+    "network",
+    "merchantId",
+    "merchantName",
+    "title",
+    "category",
+    "destinationUrl",
+    "imageUrl",
+    "updatedAt",
+    "affiliateDisclosure"
+  ],
+  "optionalFields": [
+    "currency",
+    "price",
+    "compareAtPrice",
+    "availability",
+    "country",
+    "trackingTemplate"
+  ],
+  "constraints": [
+    "No unverified merchant approval, discount, or price",
+    "Destination links must use network-approved tracking",
+    "Check licenses and policies for product photos/feeds",
+    "Never store credentials or personal tax/bank data in this repository"
+  ]
+}
