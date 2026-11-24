@@ -16,3 +16,5 @@ jobs:
         with:
           node-version: '22'
       - run: python3 tests/check_site.py
+
+      - run: node tests/shop_catalog.test.js
