@@ -17,7 +17,7 @@ for(const offer of data.offers){
 }
 const shop=fs.readFileSync("shop.js","utf8");
 new Function(shop);
-assert.match(shop,/rel="sponsored noopener noreferrer"/);
+assert.match(shop,/link\\.rel="sponsored noopener noreferrer"/);
 assert.match(shop,/merchantApproved===true/);
 assert.match(shop,/networkApproved===true/);
 assert.match(fs.readFileSync("shop.html","utf8"),/Affiliate disclosure:/);
