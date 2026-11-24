@@ -18,7 +18,7 @@ for(const offer of data.offers){
 const shop=fs.readFileSync("shop.js","utf8");
 new Function(shop);
 assert.ok(shop.includes('link.rel="sponsored noopener noreferrer"'));
-assert.match(shop,/merchantApproved===true/);
-assert.match(shop,/networkApproved===true/);
+assert.ok(shop.includes("entry.merchantApproved!==true"));
+assert.ok(shop.includes("entry.networkApproved!==true"));
 assert.match(fs.readFileSync("shop.html","utf8"),/Affiliate disclosure:/);
 console.log("Approved-only affiliate catalog and shop page checks passed ("+data.offers.length+" offers)");
