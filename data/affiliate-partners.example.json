@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "description": "Configuration example only. NO approved programs or active affiliate links in this file.",
+  "partners": [
+    {
+      "network": "Awin",
+      "status": "not_applied",
+      "publisherId": null,
+      "programId": null,
+      "approvedMerchantIds": [],
+      "landingPage": null
+    },
+    {
+      "network": "CJ Affiliate",
+      "status": "not_applied",
+      "publisherId": null,
+      "programId": null,
+      "approvedMerchantIds": [],
+      "landingPage": null
+    },
+    {
+      "network": "Impact",
+      "status": "not_applied",
+      "publisherId": null,
+      "programId": null,
+      "approvedMerchantIds": [],
+      "landingPage": null
+    },
+    {
+      "network": "Rakuten Advertising",
+      "status": "not_applied",
+      "publisherId": null,
+      "programId": null,
+      "approvedMerchantIds": [],
+      "landingPage": null
+    },
+    {
+      "network": "Expedia Group",
+      "status": "not_applied",
+      "publisherId": null,
+      "programId": null,
+      "approvedMerchantIds": [],
+      "landingPage": null
+    }
+  ]
+}
