@@ -1,6 +1,103 @@
 {
   "schemaVersion": 1,
-  "lastReviewed": "2026-11-23",
+  "lastReviewed": "2026-11-25",
   "disclosure": "OnZell may earn a commission from qualifying purchases made through approved affiliate links, at no additional cost to you.",
-  "offers": []
+  "offers": [
+    {
+      "merchantId": "132119",
+      "merchantName": "Gen See Beauty (US)",
+      "title": "Explore Gen See makeup",
+      "summary": "Browse makeup for everyday looks.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=132119&awinaffid=3165537&clickref=shop_gensee",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "131140",
+      "merchantName": "Booking Radar",
+      "title": "Explore travel stays",
+      "summary": "Visit Booking Radar to browse accommodation options for your next trip.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=131140&awinaffid=3165537&clickref=shop_booking_radar",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "131955",
+      "merchantName": "Cloud of Goods US",
+      "title": "Explore rentals for your trip",
+      "summary": "Browse equipment rentals for your destination.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=131955&awinaffid=3165537&clickref=shop_cloud_of_goods",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "129711",
+      "merchantName": "Cookie Pop Candy Pop (US)",
+      "title": "Snacks for movie night",
+      "summary": "Browse sweet popcorn and snack options for your next movie night.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=129711&awinaffid=3165537&clickref=shop_cookie_pop",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "131860",
+      "merchantName": "ROADS Daily Socks",
+      "title": "Browse everyday socks",
+      "summary": "Explore socks for your everyday wardrobe.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=131860&awinaffid=3165537&clickref=shop_roads_socks",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "131769",
+      "merchantName": "Aelse",
+      "title": "Explore Aelse",
+      "summary": "Browse the current collection on the merchant’s site.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=131769&awinaffid=3165537&clickref=shop_aelse",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "132146",
+      "merchantName": "Wholesome Grove",
+      "title": "Explore Wholesome Grove",
+      "summary": "Browse the current selection on the merchant’s site.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=132146&awinaffid=3165537&clickref=shop_wholesome_grove",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    },
+    {
+      "merchantId": "99013",
+      "merchantName": "Shenzhen Cangyu Technology Co., Ltd.",
+      "title": "Explore the merchant’s technology selection",
+      "summary": "Visit the merchant to see its current catalog.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=99013&awinaffid=3165537&clickref=shop_cangyu",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-25"
+    }
+  ]
 }
