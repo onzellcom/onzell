@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastReviewed": "2026-11-25",
+  "lastReviewed": "2026-11-26",
   "disclosure": "OnZell may earn a commission from qualifying purchases made through approved affiliate links, at no additional cost to you.",
   "offers": [
     {
@@ -13,7 +13,7 @@
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26"
     },
     {
       "merchantId": "131140",
@@ -25,7 +25,9 @@
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26",
+      "imageUrl": "https://www.awin1.com/cshow.php?s=4925605&v=131140&q=617680&r=3165537",
+      "imageAlt": "Booking Radar private airport transfers"
     },
     {
       "merchantId": "131955",
@@ -37,7 +39,9 @@
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26",
+      "imageUrl": "https://www.awin1.com/cshow.php?s=5015968&v=131955&q=625468&r=3165537",
+      "imageAlt": "Cloud of Goods stroller rentals"
     },
     {
       "merchantId": "129711",
@@ -49,7 +53,7 @@
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26"
     },
     {
       "merchantId": "131860",
@@ -61,7 +65,7 @@
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26"
     },
     {
       "merchantId": "131769",
@@ -69,11 +73,11 @@
       "title": "Explore Aelse",
       "summary": "Browse the current collection on the merchant’s site.",
       "network": "Awin",
-      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=131769&awinaffid=3165537&clickref=shop_aelse",
+      "affiliateUrl": "https://www.awin1.com/awclick.php?gid=625414&mid=131769&awinaffid=3165537&linkid=5014600&clickref=shop_aelse",
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26"
     },
     {
       "merchantId": "132146",
@@ -81,23 +85,37 @@
       "title": "Explore Wholesome Grove",
       "summary": "Browse the current selection on the merchant’s site.",
       "network": "Awin",
-      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=132146&awinaffid=3165537&clickref=shop_wholesome_grove",
+      "affiliateUrl": "https://www.awin1.com/awclick.php?gid=625445&mid=132146&awinaffid=3165537&linkid=5014760&clickref=shop_wholesome_grove",
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26"
     },
     {
       "merchantId": "99013",
-      "merchantName": "Shenzhen Cangyu Technology Co., Ltd.",
-      "title": "Explore the merchant’s technology selection",
-      "summary": "Visit the merchant to see its current catalog.",
+      "merchantName": "Simple Project",
+      "title": "Browse bathroom fixtures",
+      "summary": "Explore bathroom fixtures from Simple Project.",
       "network": "Awin",
       "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=99013&awinaffid=3165537&clickref=shop_cangyu",
       "status": "active",
       "merchantApproved": true,
       "networkApproved": true,
-      "reviewedAt": "2026-11-25"
+      "reviewedAt": "2026-11-26",
+      "imageUrl": "https://www.awin1.com/cshow.php?s=4329737&v=99013&q=565168&r=3165537",
+      "imageAlt": "Simple Project bathroom fixtures"
+    },
+    {
+      "merchantId": "132108",
+      "merchantName": "Arvesso",
+      "title": "Explore Arvesso",
+      "summary": "Browse the merchant’s current collection.",
+      "network": "Awin",
+      "affiliateUrl": "https://www.awin1.com/cread.php?awinmid=132108&awinaffid=3165537&clickref=shop_arvesso",
+      "status": "active",
+      "merchantApproved": true,
+      "networkApproved": true,
+      "reviewedAt": "2026-11-26"
     }
   ]
 }
