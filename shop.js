@@ -17,7 +17,7 @@ try{
   const merchant=document.createElement("div");merchant.className="merchant";merchant.textContent=entry.merchantName;card.append(merchant);
   const heading=document.createElement("h2");heading.textContent=entry.title;card.append(heading);
   if(entry.summary){const p=document.createElement("p");p.textContent=entry.summary;card.append(p)}
-  const link=document.createElement("a");link.className="button";link.href=target.href;link.rel="sponsored noopener noreferrer";link.target="_blank";link.textContent="Visit merchant";card.append(link);
+  const link=document.createElement("a");link.className="button";link.href=target.href;link.rel="sponsored noopener noreferrer";link.target="_blank";link.textContent="Visit merchant (paid link)";card.append(link);
   const note=document.createElement("small");note.textContent="Confirm price, availability and shipping directly with the merchant.";card.append(note);
   grid.append(card);count++;
  }
