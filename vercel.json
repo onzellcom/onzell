@@ -1,4 +1,10 @@
 {
   "cleanUrls": false,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/catalogo",
+      "destination": "/catalogo-movilidad-a09f97f02bbc161deae1a071.html"
+    }
+  ]
 }
